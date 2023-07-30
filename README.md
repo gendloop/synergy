@@ -1,9 +1,9 @@
-# RepoName
+# synergy
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/synergy
 ```
 
 ## Notes
