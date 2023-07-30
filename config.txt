@@ -1,0 +1,5 @@
+
+PROJECT_NAME=synergy
+synergy_VERSION_MAJOR=1
+synergy_VERSION_MINOR=10
+synergy_VERSION_PATCH=0
